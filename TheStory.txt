@@ -1,0 +1,15 @@
+                                           The Total Story 
+                                          ـــــــــــــــــــــــــــــــــــــــــــــــ
+
+We have a huge advertising campaign that all departments are preparing for,
+so the company informed me about some requirements to help them in their campaign,
+as The Campaign Manager want to track of the behavior of each customer in each country and
+all the transactions they made,Customer Satisfaction Manager wants to add a notice
+to the campaign about organizing a contest to reward the most buying customers 
+and motivate the less buying ones,The marketing manager wants to know the best-selling
+and least-selling products in each country to study organizing a huge advertising campaign 
+covering the problems facing the least-selling products in the markets in each country, 
+The Campaign manager wants to keep track of the relations between all countries in terms of sales order,
+The Customer Service Manager wants to get information when the last time the customer made a purchase,
+and when was the time before it, how much time is between the two periods,
+and the total number of times this customer made a purchase in general
